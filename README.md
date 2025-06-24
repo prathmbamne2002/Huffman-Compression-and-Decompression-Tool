@@ -23,7 +23,7 @@ This project implements the Huffman Coding algorithm to compress and decompress 
 
 ## 🚀 Technologies Used
 
-- **C++ (STL, multithreading)**
+- **C++ (STL)**
 - **Priority Queue (Min-Heap) for Huffman Tree**
 - **Bit Manipulation for Binary Encoding**
 - **File Streams (ifstream, ofstream)**
